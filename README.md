@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">Aspiring Data Scientist & AI/ML Intern | Building real-world analytics solutions</h3>
+<h3 align="center">AI/ML Developer & Data Analyst | Building Real-World ML Solutions</h3>
 
 ---
 
 ### 🧠 About Me
 
 - 💼 AI/ML Intern @ ACISM  
-- 📊 Recent Project: [Loyalty Analytics Engine](https://github.com/hhsksonu/Loyalty-Analytics-Engine-Gaming-Platform)  
-- 🛠️ Working with: Python, Pandas, Scikit-learn, GSpread, Google Sheets API  
-- 🧾 Also building: Modular ML Components in [Xsemble](https://xsemble.com)  
-- 📚 Completed NPTEL: Data Science for Engineers  
-- 🌐 Website/GitHub Portfolio: [github.com/hhsksonu](https://github.com/hhsksonu)
+- 🤖 Focused on real-world ML applications: Fake Job Detection, Loyalty Engine, Model Explainability  
+- 🛠️ Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Streamlit, SHAP, GSpread  
+- 🔧 Building modular ML components in [Xsemble](https://xsemble.com)  
+- 📚 Certified: NPTEL - Data Science for Engineers  
+- 🌐 Portfolio: [github.com/hhsksonu](https://github.com/hhsksonu)  
 
 ---
 ### 🛠️ Languages & Tools
@@ -47,11 +47,21 @@
 
 ### 📌 Highlighted Project
 
+✅ Built an end-to-end Fake Job Detection system using Natural Language Processing  
+🧠 Used TF-IDF vectorization to extract meaningful patterns from job descriptions  
+📈 Trained and optimized an XGBoost classifier to detect fake job postings  
+📊 Visualized important insights using word clouds, class imbalance plots, and confusion matrix  
+🔍 Applied SHAP (SHapley Additive exPlanations) to interpret and explain model predictions  
+🧪 Validated model fairness and transparency using SHAP force and waterfall plots  
+🛠️ Deployed a user-friendly Streamlit app for real-time fake job classification 
+
+---
 🚀 [Loyalty Analytics Engine for a Real-Money Gaming Platform](https://github.com/hhsksonu/Loyalty-Analytics-Engine-Gaming-Platform)  
-🎯 Built a full loyalty point engine using Python + Google Sheets API  
-🏆 Implemented ranking, bonus distribution, and fairness evaluation  
-📄 Report + Notebook + Visualization included  
-📸 With screenshots, dataset link, and clean Colab code
+🎯 Developed a full loyalty point analytics system using Python, Pandas, and Google Sheets API  
+🧮 Built a dynamic point calculator based on deposits, withdrawals, and gameplay activity  
+📊 Implemented slot-wise filtering, monthly user ranking, and ₹50,000 bonus distribution  
+⚖️ Evaluated reward fairness and prevented abuse through behavioral analysis  
+📑 Includes well-structured Colab notebooks, visual reports, dataset links, and screenshots  
 
 ---
 ### 📊 GitHub Stats
