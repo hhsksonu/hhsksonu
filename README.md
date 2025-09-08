@@ -30,6 +30,11 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 
+  <!-- Statistics & Math -->
+  <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-5B8BB4?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mathematics-E4405F?logo=wolframmathematica&logoColor=white" />
+
   <!-- Data Viz -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-5385C1?logo=python&logoColor=white" />
@@ -60,7 +65,7 @@ Deployed a user-friendly Streamlit app for real-time fake job classification
 Developed a full loyalty point analytics system using Python, Pandas, and Google Sheets API  
 Built a dynamic point calculator based on deposits, withdrawals, and gameplay activity  
 Implemented slot-wise filtering, monthly user ranking, and ₹50,000 bonus distribution  
-⚖Evaluated reward fairness and prevented abuse through behavioral analysis  
+Evaluated reward fairness and prevented abuse through behavioral analysis  
 Includes well-structured Colab notebooks, visual reports, dataset links, and screenshots  
 
 ---
