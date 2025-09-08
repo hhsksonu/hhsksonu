@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">AI ML Engineer, Data scientist & Data Analyst </h3>
+<h3 align="center"> AI/ML Intern | Python | Data Science | Deep Learning | MCA’25 | Seeking Full-Time ML or DS Role </h3>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 💼 AI/ML Intern @ ACISM  
-- 🤖 Focused on real-world ML applications: Fake Job Detection, Loyalty Engine, Model Explainability  
-- 🛠️ Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Streamlit, SHAP, GSpread  
-- 🔧 Building modular ML components in [Xsemble](https://xsemble.com)  
-- 📚 Certified: NPTEL - Data Science for Engineers  
-- 🌐 Portfolio: [github.com/hhsksonu](https://github.com/hhsksonu)  
+- Completed AI/ML Intern @ ACISM  
+- Focused on real-world ML applications: Fake Job Detection, Loyalty Engine, Model Explainability  
+- Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Streamlit, SHAP, GSpread  
+- Building modular ML components in [Xsemble](https://xsemble.com)  
+- Certified: NPTEL - Data Science for Engineers  
+- Portfolio: [github.com/hhsksonu](https://github.com/hhsksonu)  
 
 ---
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <!-- Programming Languages -->
@@ -45,26 +45,26 @@
 
 ---
 
-### 📌 Highlighted Project
+### Highlighted Project
 
-✅ Built an end-to-end Fake Job Detection system using Natural Language Processing  
-🧠 Used TF-IDF vectorization to extract meaningful patterns from job descriptions  
-📈 Trained and optimized an XGBoost classifier to detect fake job postings  
-📊 Visualized important insights using word clouds, class imbalance plots, and confusion matrix  
-🔍 Applied SHAP (SHapley Additive exPlanations) to interpret and explain model predictions  
-🧪 Validated model fairness and transparency using SHAP force and waterfall plots  
-🛠️ Deployed a user-friendly Streamlit app for real-time fake job classification 
-
----
-🚀 [Loyalty Analytics Engine for a Real-Money Gaming Platform](https://github.com/hhsksonu/Loyalty-Analytics-Engine-Gaming-Platform)  
-🎯 Developed a full loyalty point analytics system using Python, Pandas, and Google Sheets API  
-🧮 Built a dynamic point calculator based on deposits, withdrawals, and gameplay activity  
-📊 Implemented slot-wise filtering, monthly user ranking, and ₹50,000 bonus distribution  
-⚖️ Evaluated reward fairness and prevented abuse through behavioral analysis  
-📑 Includes well-structured Colab notebooks, visual reports, dataset links, and screenshots  
+[Fake Job Detection system using Natural Language Processing](https://github.com/hhsksonu/fake-job-detector-using-nlp)  
+Used TF-IDF vectorization to extract meaningful patterns from job descriptions  
+Trained and optimized an XGBoost classifier to detect fake job postings  
+Visualized important insights using word clouds, class imbalance plots, and confusion matrix  
+Applied SHAP (SHapley Additive exPlanations) to interpret and explain model predictions  
+Validated model fairness and transparency using SHAP force and waterfall plots  
+Deployed a user-friendly Streamlit app for real-time fake job classification 
 
 ---
-### 📊 GitHub Stats
+[Loyalty Analytics Engine for a Real-Money Gaming Platform](https://github.com/hhsksonu/Loyalty-Analytics-Engine-Gaming-Platform)  
+Developed a full loyalty point analytics system using Python, Pandas, and Google Sheets API  
+Built a dynamic point calculator based on deposits, withdrawals, and gameplay activity  
+Implemented slot-wise filtering, monthly user ranking, and ₹50,000 bonus distribution  
+⚖Evaluated reward fairness and prevented abuse through behavioral analysis  
+Includes well-structured Colab notebooks, visual reports, dataset links, and screenshots  
+
+---
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhsksonu&show_icons=true&theme=default" width="48%" />
@@ -76,11 +76,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhsksonu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 📫 Let's Connect
+### Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hhsksonu)
-- 🐍 [GitHub](https://github.com/hhsksonu)
+- [LinkedIn](https://www.linkedin.com/in/hhsksonu)
+- [GitHub](https://github.com/hhsksonu)
 
 ---
 
-⭐ If you like my work, please give a star to my project repo!
+If you like my work, please give a star to my project repo!
