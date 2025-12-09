@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center"> AI/ML Intern | Python | Data Science | Deep Learning | MCA’25 | Seeking Full-Time ML or DS Role </h3>
+<h3 align="center"> AI/ML Intern | Python | Data Science | Deep Learning | MCA’25 | Seeking Full-Time Fullstack + AI Roll </h3>
 
 ---
 
