@@ -142,7 +142,23 @@ Cross-platform desktop application that converts real-time speech into text usin
 **Tech Stack:** Python | Tauri | React | JavaScript | Deepgram API
 
 ---
+## Store Rating System – Full-Stack Web Application
+**Enterprise-Grade Rating Platform | React.js, Node.js, Express, PostgreSQL**
 
+Full-stack web application with role-based access control for managing store ratings and reviews.
+
+* **JWT-based authentication** with bcrypt password hashing and secure token management
+* **Role-based authorization** for Admin, User, and Store Owner with protected routes
+* **CRUD operations** for users, stores, and ratings with PostgreSQL database
+* **Advanced filtering and sorting** capabilities with dynamic search functionality
+* **RESTful API** with Express.js following MVC architecture pattern
+* **Responsive React frontend** with modern UI/UX and real-time validation
+* **Database security** with parameterized queries preventing SQL injection
+* **Clean architecture** with organized validators, middleware, and controllers
+
+**Tech Stack:** React.js | Node.js | Express.js | PostgreSQL | JWT | Bcrypt | Axios | React Router
+
+---
 ### [Blog Website – Django](https://github.com/hhsksonu/Blog-website-Django)
 **Full-Stack Blog Application** | *Django, Python, HTML, CSS*
 
