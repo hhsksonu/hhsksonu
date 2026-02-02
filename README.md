@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Sonu Kumar</h1>
-<h3 align="center">Full-Stack + AI Engineer | MCA Graduate (8.5 CGPA) | Building Scalable Web Apps & Production-Ready AI Systems</h3>
+<h3 align="center">Full-Stack + AI Engineer | MCA Graduate (8.2 CGPA) | Building Scalable Web Apps & Production-Ready AI Systems</h3>
 
 <p align="center">
   <a href="https://hhsksonu.vercel.app/">Portfolio</a> •
@@ -15,7 +15,7 @@
 
 ## About Me
 
-MCA postgraduate (8.5 CGPA) from **DY Patil University, Pune** specializing in Full-Stack Development and Artificial Intelligence. **AI/ML Intern at ACISM** with hands-on experience developing modular ML pipelines and preprocessing frameworks.
+MCA postgraduate (8.2 CGPA) from **DY Patil University, Pune** specializing in Full-Stack Development and Artificial Intelligence. **AI/ML Intern at ACISM** with hands-on experience developing modular ML pipelines and preprocessing frameworks.
 
 - Currently working on: **Full-Stack AI applications** integrating ML models with web backends
 - Expertise in: **Python, Django, Flask, React.js, Machine Learning, NLP, Computer Vision**
@@ -177,12 +177,12 @@ Full-stack blog application built using Django and MVC architecture.
 ## Education
 
 ### Master of Computer Applications (MCA)
-**DY Patil University, Pune** | *Jun 2023 - Sep 2025* | **CGPA: 8.5**
+**DY Patil University, Pune** | *Jun 2023 - Sep 2025* | **CGPA: 8.2**
 
 Specialized in Full-Stack Development and Artificial Intelligence. Built production-ready ML systems with 95% accuracy, scalable web applications, and data-driven solutions.
 
 **Key Achievements:**
-- CGPA: 8.5/10
+- CGPA: 8.2/10
 - Specialized in Full-Stack + AI Development
 - Built multiple production-ready ML projects
 - Improved ML pipeline performance by 15%
