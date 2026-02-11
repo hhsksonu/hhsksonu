@@ -215,10 +215,17 @@ Developed strong analytical, statistical, and problem-solving foundation through
 
 ## Certifications & Courses
 
-[![NPTEL](https://img.shields.io/badge/Data%20Science%20for%20Engineers-NPTEL%20%7C%20IIT%20Madras-blue?style=for-the-badge)](LINK)
-[![Simplilearn](https://img.shields.io/badge/Machine%20Learning%20Using%20Python-Simplilearn-orange?style=for-the-badge)](LINK)
-[![Great Learning](https://img.shields.io/badge/R%20for%20Data%20Science-Great%20Learning-brightgreen?style=for-the-badge)](LINK)
-[![NPTEL](https://img.shields.io/badge/Cloud%20Computing%20%26%20Distributed%20Systems-NPTEL%20%7C%20IIT%20Kanpur-blueviolet?style=for-the-badge)](LINK)
+## Certifications & Courses
+
+[![NPTEL](https://img.shields.io/badge/NPTEL-IIT%20Madras-blue?style=for-the-badge)](LINK)
+**Data Science for Engineers**
+
+[![Simplilearn](https://img.shields.io/badge/Simplilearn-Machine%20Learning%20Using%20Python-orange?style=for-the-badge)](LINK)
+
+[![Great Learning](https://img.shields.io/badge/Great%20Learning-R%20for%20Data%20Science-brightgreen?style=for-the-badge)](LINK)
+
+[![NPTEL](https://img.shields.io/badge/NPTEL-IIT%20Kanpur-blueviolet?style=for-the-badge)](LINK)
+**Cloud Computing & Distributed Systems**
 
 ---
 
