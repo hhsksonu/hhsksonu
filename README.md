@@ -22,7 +22,7 @@ MCA postgraduate (8.2 CGPA) from **DY Patil University, Pune** specializing in F
 - Built: **Fraud detection system (95% accuracy), Loyalty analytics engine, Voice-to-text desktop app**
 - Improved: **ML model accuracy by 15%** through feature engineering and optimization
 - Location: **Pune, Maharashtra** | **Immediate Joiner** | **Willing to Relocate**
-- Resume: [Download CV](https://drive.google.com/file/d/1YOZfL2XbIi8wvyyz-Paz_MZG9izSu9Uf/view?usp=sharing)
+- Resume: [Download CV](https://drive.google.com/file/d/18lm-bdTAo5F60NNyxP47fEThQ5e-zeAM/view?usp=sharing)
 - Portfolio: [hhsksonu.vercel.app](https://hhsksonu.vercel.app/)
 
 ---
@@ -95,71 +95,43 @@ MCA postgraduate (8.2 CGPA) from **DY Patil University, Pune** specializing in F
 - Strengthened deployment stability and standardized project structure
 
 ---
-
 ## Featured Projects
 
-### [Fake Job Post Detector](https://github.com/hhsksonu/fake-job-detector-using-nlp)
-**Full-Stack + AI Application** | *Python, TF-IDF, XGBoost, Flask, React*
+### 1. [Know Your Organization (KYO) – AI-Powered Internal Knowledge System](https://github.com/hhsksonu/Internal-Knowledge-Operations-Software)
+**Full-Stack RAG Application** | *React, Django REST Framework, PostgreSQL, pgvector, Hugging Face, AWS EC2, Vercel*
+
+Production-ready RAG platform enabling employees to get instant, source-backed answers from internal documents using AI.
+
+- RAG pipeline using Mistral-7B-Instruct and BAAI/bge-base-en-v1.5 embeddings via Hugging Face
+- Role-based access control for Employee, Content Owner, Reviewer, and Administrator
+- Document upload, approval workflow, version control, and audit logging
+- Sub-2-second query response with semantic search using pgvector
+- Deployed on AWS EC2 (backend) + Vercel (frontend) with Redis + Celery for async tasks
+
+**Tech Stack:** React | Django REST Framework | PostgreSQL | pgvector | Hugging Face | Mistral-7B | AWS EC2 | Redis | Celery | Vercel
+
+🔗 **Live:** [Website](https://www.knowyourorg.com/)
+
+---
+
+### 2. [Fake Job Post Detector using NLP & SHAP](https://github.com/hhsksonu/fake-job-detector-using-nlp)
+**Full-Stack + AI Application** | *Python, TF-IDF, XGBoost, Flask, React, SHAP, Streamlit*
 
 End-to-end web application to detect fraudulent job postings using NLP and machine learning.
 
 - NLP-based ML model with 95% accuracy
+- Handled class imbalance with SMOTE, improving minority recall by 18%
 - REST API built using Flask / FastAPI
-- Frontend interface using React
-- Model explainability using SHAP
+- Model explainability using SHAP for transparent predictions
 - Deployed user-friendly Streamlit app for real-time classification
 
-**Tech Stack:** Python | TF-IDF | XGBoost | Flask | React | SHAP | Streamlit
+**Tech Stack:** Python | TF-IDF | XGBoost | Flask | React | SHAP | SMOTE | Streamlit
+
+🔗 **Live:** https://fake-job-detector-using-nlp-op3wr9fxrao2tul767qoax.streamlit.app/
 
 ---
 
-### [Loyalty Analytics Engine](https://github.com/hhsksonu/Loyalty-Analytics-Engine-Gaming-Platform)
-**Gaming Platform Backend** | *Python, Pandas, MySQL, REST APIs*
-
-Data-driven reward system with analytics and automation for gaming platforms.
-
-- Backend logic for ranking and reward distribution
-- Google Sheets integration for data ingestion
-- Automated scoring pipeline
-- ₹50,000 bonus distribution system
-- Behavioral analysis to prevent abuse
-
-**Tech Stack:** Python | Pandas | MySQL | Google Sheets API | REST APIs
-
----
-
-### [Voice-to-Text Desktop Application](https://github.com/hhsksonu/voice-to-text)
-**Cross-Platform Desktop App** | *Python, Tauri, React, Deepgram API*
-
-Cross-platform desktop application that converts real-time speech into text using modern speech recognition APIs.
-
-- Real-time speech-to-text using Deepgram API
-- Desktop application built with Tauri and React
-- Low-latency streaming audio transcription
-- Local storage and export of transcription files
-- Clean and productivity-focused user interface
-
-**Tech Stack:** Python | Tauri | React | JavaScript | Deepgram API
-
----
-## Store Rating System – Full-Stack Web Application
-**Enterprise-Grade Rating Platform | React.js, Node.js, Express, PostgreSQL**
-
-Full-stack web application with role-based access control for managing store ratings and reviews.
-
-* **JWT-based authentication** with bcrypt password hashing and secure token management
-* **Role-based authorization** for Admin, User, and Store Owner with protected routes
-* **CRUD operations** for users, stores, and ratings with PostgreSQL database
-* **Advanced filtering and sorting** capabilities with dynamic search functionality
-* **RESTful API** with Express.js following MVC architecture pattern
-* **Responsive React frontend** with modern UI/UX and real-time validation
-* **Database security** with parameterized queries preventing SQL injection
-* **Clean architecture** with organized validators, middleware, and controllers
-
-**Tech Stack:** React.js | Node.js | Express.js | PostgreSQL | JWT | Bcrypt | Axios | React Router
-
----
-### [Blog Website – Django](https://github.com/hhsksonu/Blog-website-Django)
+### 3. [Hhsksonu Blog](https://github.com/hhsksonu/Blog-website-Django)
 **Full-Stack Blog Application** | *Django, Python, HTML, CSS*
 
 Full-stack blog application built using Django and MVC architecture.
@@ -172,8 +144,39 @@ Full-stack blog application built using Django and MVC architecture.
 
 **Tech Stack:** Django | Python | HTML | CSS | SQLite
 
+🔗 **Live:** https://hhsksonu.pythonanywhere.com/
+
 ---
 
+### 4. [Loyalty Analytics Engine – Real-Money Gaming Platform](https://github.com/hhsksonu/Loyalty-Analytics-Engine-Gaming-Platform)
+**Gaming Platform Backend** | *Python, Pandas, Google Sheets API, OAuth2*
+
+Data-driven reward system with analytics and automation for real-money gaming platforms.
+
+- Slot-based segmentation and proportional ₹50,000 bonus distribution
+- Backend logic for ranking, scoring, and reward distribution
+- Google Sheets integration for automated data ingestion
+- Increased user engagement by 20% through smart loyalty mechanics
+- Behavioral analysis pipeline to prevent reward abuse
+
+**Tech Stack:** Python | Pandas | Google Colab | GSpread | OAuth2 | Data Analytics
+
+---
+
+### 5. [Trader Performance vs Market Sentiment Analysis](https://github.com/hhsksonu/trader_sentiment_analysis)
+**Data Analysis & ML** | *Python, Pandas, Scikit-learn, Jupyter Notebook*
+
+Analyzes the relationship between Bitcoin Fear/Greed Index and Hyperliquid trader behavior to uncover actionable trading patterns.
+
+- Merged sentiment data with trader transactions for daily behavioral analysis
+- Segmented traders into leverage-based, activity-based, and performance-based groups
+- Statistical validation using Mann-Whitney U tests (α = 0.05)
+- Built Random Forest classifier to predict next-day trader profitability
+- Developed 3 evidence-based trading strategies from quantitative findings
+
+**Tech Stack:** Python | Pandas | Scikit-learn | Random Forest | Matplotlib | Jupyter Notebook | Statistics
+
+---
 ## Education
 
 ### Master of Computer Applications (MCA)
@@ -211,10 +214,6 @@ Developed strong analytical, statistical, and problem-solving foundation through
 
 ---
 
-## Certifications
-
-## Certifications & Courses
-
 ## Certifications & Courses
 
 [![NPTEL](https://img.shields.io/badge/NPTEL-IIT%20Madras-blue?style=for-the-badge)](LINK)
@@ -233,10 +232,10 @@ Developed strong analytical, statistical, and problem-solving foundation through
 
 ```
 Machine Learning & Deep Learning       Full-Stack Web Development
-Natural Language Processing (NLP)      Computer Vision
+Natural Language Processing (NLP)      LLMs & RAG Systems
 Feature Engineering & Model Tuning     RESTful API Development
 Data Analysis & Visualization          Database Design & Optimization
-Statistical Analysis & Modeling        Cloud Deployment (AWS)
+Statistical Analysis & Modeling        Cloud Deployment (AWS, Vercel)
 Problem Solving & Algorithm Design     Version Control (Git)
 ```
 
